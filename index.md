@@ -34,3 +34,9 @@
   - Clothing
     - https://twitter.com/LuckyCatYuki
     - https://twitter.com/Cordysgarden
+
+## Socials
+  - Youtube
+    - https://www.youtube.com/channel/UCkOhRV43LeD13GfJTdRox9A
+  - Twitter
+    - https://twitter.com/ampedapp
