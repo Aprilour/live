@@ -27,16 +27,16 @@
 ## Attributions
 - Streaming Software
   - Broadcasting
-    - https://obsproject.com/
+    - [Open Broadcaster Software](https://obsproject.com/)
   - OBS Stream Intergration
-    - https://streamelements.com 
+    - [Stream Elements](https://streamelements.com)
 - 3D Model Stuff
   - Clothing
-    - https://twitter.com/LuckyCatYuki
-    - https://twitter.com/Cordysgarden
+    - [@LuckyCatYuki](https://twitter.com/LuckyCatYuki)
+    - [@Cordysgarden](https://twitter.com/Cordysgarden)
 
 ## Socials
   - Youtube
-    - https://www.youtube.com/channel/UCkOhRV43LeD13GfJTdRox9A
+    - [Ampedapp](https://www.youtube.com/channel/UCkOhRV43LeD13GfJTdRox9A)
   - Twitter
-    - https://twitter.com/ampedapp
+    - [@Ampedapp](https://twitter.com/ampedapp)
