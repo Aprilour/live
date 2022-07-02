@@ -1,6 +1,4 @@
-# Ampedapp
-### Who am I?
-I am a content creator from the United Kingdom. I enjoy technical based subjects and decided to just do this as a hobby.
+# Index
 
-### Stream Stuff
- [**Chat Rules**](rules.md)
+## Stream Stuff
+### [**Chat Rules**](rules.md)
