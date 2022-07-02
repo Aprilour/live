@@ -1,5 +1,4 @@
 ## Chat Rules
-
 1. No Homophobia, Transphobia, Racism, or Ableism
   - Any act of this will not be tolerated this includes the use of slurs and offensive language towards these groups!
 2. No Spamming
@@ -24,3 +23,14 @@
   - If I'm playing a story based game don't post spoilers it ruins the game for me and everyone else in the stream.
 12. Keep chat in English
   - Since I speak english please keep chat to English as otherwise I won't understand what is being said and it also makes it hard to moderate the stream.
+
+## Attributions
+- Streaming Software
+  - Broadcasting
+    - https://obsproject.com/
+  - OBS Stream Intergration
+    - https://streamelements.com 
+- 3D Model Stuff
+  - Clothing
+    - https://twitter.com/LuckyCatYuki
+    - https://twitter.com/Cordysgarden
